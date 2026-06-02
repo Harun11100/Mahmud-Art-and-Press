@@ -116,7 +116,7 @@ export default function Footer() {
         {/* Bottom Footer */}
         <div className="flex flex-col items-center justify-between gap-4 pt-8 sm:flex-row">
           <p className="text-center text-xs text-neutral-600 sm:text-left">
-            &copy; {currentYear} ArtPress। সর্বস্বত্ব সংরক্ষিত।
+            &copy; {currentYear} MahmudArt&Press। সর্বস্বত্ব সংরক্ষিত।
             আধুনিক React প্রযুক্তি ব্যবহার করে তৈরি।
           </p>
 
