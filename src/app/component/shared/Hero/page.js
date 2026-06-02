@@ -51,10 +51,10 @@ export default function Hero() {
             </p>
 
             {/* Buttons */}
-            <div className="flex flex-wrap items-center gap-4 pt-2">
+            <div className="flex flex-wrap items-center gap-4 pt-2  text-black ">
               <Link
                 href="#portfolio"
-                className="group inline-flex items-center gap-2 rounded-full bg-white px-7 py-4 text-sm font-semibold text-black transition-all duration-300 hover:-translate-y-0.5 hover:bg-neutral-100 hover:shadow-xl hover:shadow-white/5 active:translate-y-0"
+                className="group inline-flex items-center gap-2  rounded-full bg-white px-7 py-4 text-sm font-semibold text-black transition-all duration-300 hover:-translate-y-0.5 hover:bg-neutral-100 hover:shadow-xl hover:shadow-white/5 active:translate-y-0"
               >
                 আমাদের কাজ দেখুন
 
