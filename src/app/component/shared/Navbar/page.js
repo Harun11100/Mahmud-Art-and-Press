@@ -73,7 +73,7 @@ export default function Navbar() {
         </ul>
 
         {/* Desktop CTA */}
-        <div className="hidden md:flex">
+        <div className="hidden md:flex  text-white">
           <a
             href="#contact"
             className="rounded-full bg-black px-5 py-2.5 text-sm font-medium text-white transition hover:-translate-y-0.5 hover:bg-neutral-800"
