@@ -44,11 +44,11 @@ export default function Hero() {
             </h1>
 
             {/* Description */}
-            <p className="max-w-xl text-base leading-relaxed text-neutral-400 sm:text-lg">
-              আমরা ব্যবসা ও বিভিন্ন অনুষ্ঠানের জন্য প্রিমিয়াম মানের
-              ব্যানার, পোস্টার, ভিজিটিং কার্ড, ফ্লায়ার, ব্র্যান্ডিং
-              ম্যাটেরিয়াল এবং কাস্টম ডিজাইন ও প্রিন্টিং সেবা প্রদান করি।
-            </p>
+           <p className="max-w-xl text-base leading-relaxed text-neutral-400 sm:text-lg">
+  আমরা ব্যবসা প্রতিষ্ঠান ও বিভিন্ন অনুষ্ঠানের জন্য প্রিমিয়াম মানের 
+  আকর্ষণীয় লাইটিং ব্যানার, পোস্টার, ভিজিটিং কার্ড, ফ্লেক্স, 
+  ব্র্যান্ডিং ম্যাটেরিয়াল এবং কাস্টম ডিজাইন ও প্রিন্টিং সেবা প্রদান করি।
+</p>
 
             {/* Buttons */}
             <div className="flex flex-wrap items-center gap-4 pt-2 ">

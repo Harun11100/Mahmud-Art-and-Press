@@ -19,8 +19,8 @@ export default function Contact() {
     {
       icon: <FiPhone />,
       title: "সরাসরি কল করুন",
-      value: "+880 1234-56789",
-      href: "tel:+880123456789",
+      value: "+8801939082023",
+      href: "tel:+8801939082023",
     },
     {
       icon: <FiMail />,
@@ -31,13 +31,13 @@ export default function Contact() {
     {
       icon: <FiClock />,
       title: "কার্যক্রমের সময়",
-      value: "সোম - শনি: সকাল ৯টা - রাত ৮টা",
+      value: "শনি-বৃহস্পতি : সকাল ৯টা - রাত ৮টা",
       href: null,
     },
     {
       icon: <FiMapPin />,
       title: "প্রধান অফিস",
-      value: "ঢাকা, বাংলাদেশ",
+      value: "জিতার মোড়, কাশিমপুর, গাজীপুর, বাংলাদেশ",
       href: "https://maps.google.com",
     },
   ];
