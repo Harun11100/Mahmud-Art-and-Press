@@ -1,4 +1,5 @@
 import Contact from "./component/shared/Contact/page";
+import EnterpriseSolutions from "./component/shared/EnterpriseSolution/page";
 import Footer from "./component/shared/Footer/page";
 import Hero from "./component/shared/Hero/page";
 import Navbar from "./component/shared/Navbar/page";
@@ -11,6 +12,7 @@ export default function Home() {
     <>
       <Navbar />
       <Hero />
+      <EnterpriseSolutions />
       <Services />
       <Portfolio />
       <Reviews />
