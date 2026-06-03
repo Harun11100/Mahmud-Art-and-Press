@@ -24,23 +24,13 @@ export default function Footer() {
   const socialLinks = [
     {
       icon: <FaFacebookF />,
-      href: "https://facebook.com",
+      href: "https://www.facebook.com/share/1HFZFxx4ik/",
       label: "ফেসবুক",
     },
     {
       icon: <FaInstagram />,
-      href: "https://instagram.com",
+      href: "https://www.instagram.com/mahm.udart1996?igsh=ejBjNnZib3c1OGtz",
       label: "ইনস্টাগ্রাম",
-    },
-    {
-      icon: <FaTwitter />,
-      href: "https://twitter.com",
-      label: "টুইটার",
-    },
-    {
-      icon: <FaLinkedinIn />,
-      href: "https://linkedin.com",
-      label: "লিংকডইন",
     },
   ];
 
