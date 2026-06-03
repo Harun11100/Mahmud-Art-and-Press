@@ -31,12 +31,12 @@ export default function Hero() {
             {/* Badge */}
             <span className="inline-flex items-center gap-2 rounded-full border border-neutral-800 bg-neutral-900 px-4 py-2 text-xs font-medium tracking-wide text-neutral-300 backdrop-blur-md">
               <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-amber-400" />
-              পেশাদার আর্ট ও প্রেস সেবা
+              পেশাদার আর্ট ও ডিজিটাল প্রিন্টিং সেবা
             </span>
 
             {/* Heading */}
             <h1 className="text-4xl font-black leading-[1.05] tracking-tight sm:text-5xl lg:text-7xl">
-              আকর্ষণীয় ব্যানার,
+              আকর্ষণীয় লাইটিং সাইনবোর্ড, ব্যানার,
               <span className="bg-gradient-to-r from-amber-400 via-orange-400 to-amber-200 bg-clip-text text-transparent">
                 {" "}পোস্টার ও প্রিন্টিং{" "}
               </span>

@@ -72,7 +72,7 @@ export default function Portfolio() {
           </h2>
 
           <p className="max-w-md text-sm text-neutral-400 sm:text-base">
-            আমাদের প্রিমিয়াম ডিজাইন, ব্যানার, পোস্টার
+            আমাদের প্রিমিয়াম ডিজাইন, লাইটিং সাইনবোর্ড, ব্যানার, পোস্টার
             ও ব্র্যান্ডিং কাজগুলো দেখুন।
           </p>
         </div>
