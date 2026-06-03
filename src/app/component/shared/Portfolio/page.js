@@ -68,7 +68,7 @@ export default function Portfolio() {
           </span>
 
           <h2 className="text-4xl font-black tracking-tight sm:text-5xl">
-            নির্বাচিত ডিজাইন ও প্রিন্ট কাজ
+            নির্বাচিত ডিজাইন ও ডিজিটাল প্রিন্টিং কাজ
           </h2>
 
           <p className="max-w-md text-sm text-neutral-400 sm:text-base">
