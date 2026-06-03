@@ -68,13 +68,13 @@ export default function Services() {
             </span>
 
             <h2 className="text-4xl font-black tracking-tight text-neutral-900 sm:text-5xl">
-              প্রিমিয়াম ডিজাইন ও প্রিন্টিং সেবা
+              প্রিমিয়াম ডিজাইন ও ডিজিটাল প্রিন্টিং সেবা
             </h2>
           </div>
 
           <p className="max-w-sm text-base font-medium leading-relaxed text-neutral-500 sm:text-lg">
-            ডিজিটাল ডিজাইন থেকে শুরু করে বাস্তব প্রিন্ট পর্যন্ত — আমরা
-            আপনার ব্যবসার জন্য সম্পূর্ণ ব্র্যান্ডিং ও প্রিন্টিং সমাধান প্রদান করি।
+            আপনার ব্র্যান্ডকে দিন আলাদা পরিচয়।
+            আমরা দিচ্ছি আধুনিক ডিজাইন, উন্নত মানের প্রিন্টিং এবং দ্রুত ডেলিভারি সুবিধা।
           </p>
         </div>
 
