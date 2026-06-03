@@ -99,7 +99,7 @@ export default function Hero() {
               <div className="space-y-4 sm:space-y-6">
                 <div className="group relative aspect-[3/4] overflow-hidden rounded-3xl bg-neutral-900 ring-1 ring-white/10">
                   <img
-                    src="https://images.unsplash.com/photo-1586717799252-bd134ad00e26?w=800"
+                    src="/image1.png"
                     alt="পোস্টার ডিজাইন"
                     className="h-full w-full object-cover brightness-95 transition-all duration-700 group-hover:scale-105 group-hover:brightness-100"
                   />
@@ -107,7 +107,7 @@ export default function Hero() {
 
                 <div className="group relative aspect-square overflow-hidden rounded-3xl bg-neutral-900 ring-1 ring-white/10">
                   <img
-                    src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800"
+                    src="/image2.jpeg"
                     alt="ব্যানার ডিজাইন"
                     className="h-full w-full object-cover brightness-95 transition-all duration-700 group-hover:scale-105 group-hover:brightness-100"
                   />
@@ -118,7 +118,7 @@ export default function Hero() {
               <div className="space-y-4 pt-8 sm:space-y-6 sm:pt-12">
                 <div className="group relative aspect-square overflow-hidden rounded-3xl bg-neutral-900 ring-1 ring-white/10">
                   <img
-                    src="https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=800"
+                    src="/image4.jpeg"
                     alt="ভিজিটিং কার্ড ডিজাইন"
                     className="h-full w-full object-cover brightness-95 transition-all duration-700 group-hover:scale-105 group-hover:brightness-100"
                   />
@@ -126,7 +126,7 @@ export default function Hero() {
 
                 <div className="group relative aspect-[3/4] overflow-hidden rounded-3xl bg-neutral-900 ring-1 ring-white/10">
                   <img
-                    src="https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?w=800"
+                    src="/image5.jpeg"
                     alt="প্রিমিয়াম প্রিন্টিং সেবা"
                     className="h-full w-full object-cover brightness-95 transition-all duration-700 group-hover:scale-105 group-hover:brightness-100"
                   />

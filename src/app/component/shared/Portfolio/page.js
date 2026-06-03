@@ -18,32 +18,32 @@ export default function Portfolio() {
     {
       title: "কর্পোরেট ইভেন্ট ব্যানার ডিজাইন",
       category: "ব্যানার",
-      img: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+      img: "/corporate.png",
     },
     {
       title: "প্রিমিয়াম ভিজিটিং কার্ড ডিজাইন",
       category: "ব্র্যান্ডিং",
-      img: "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?w=800",
+      img: "/visiting-card.png",
     },
     {
       title: "আধুনিক পোস্টার প্রিন্ট ডিজাইন",
       category: "প্রিন্ট",
-      img: "https://images.unsplash.com/photo-1586717799252-bd134ad00e26?w=800",
+      img: "/poster-print.png",
     },
     {
       title: "কর্পোরেট ব্র্যান্ড পরিচিতি",
       category: "ব্র্যান্ডিং",
-      img: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=800",
+      img: "branding.png",
     },
     {
       title: "প্রিমিয়াম প্যাকেজিং প্রিন্ট",
       category: "প্রিন্ট",
-      img: "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?w=800",
+      img: "packaging.png",
     },
     {
-      title: "শপ ব্যানার ডিজাইন",
-      category: "ব্যানার",
-      img: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800",
+      title: "শপ লাইটিং সাইনবোর্ড ডিজাইন",
+      category: "লাইটিং সাইনবোর্ড",
+      img: "/signboard.jpeg",
     },
   ];
 
