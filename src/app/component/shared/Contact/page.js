@@ -25,13 +25,13 @@ export default function Contact() {
     {
       icon: <FiMail />,
       title: "ইমেইল করুন",
-      value: "hello@artpress.com",
-      href: "mailto:hello@artpress.com",
+      value: "mahmudart210@gmail.com",
+      href: "mailto:mahmudart210@gmail.com",
     },
     {
       icon: <FiClock />,
       title: "কার্যক্রমের সময়",
-      value: "শনি-বৃহস্পতি : সকাল ৯টা - রাত ৮টা",
+      value: "শনি-বৃহস্পতি : সকাল ৯টা - রাত ১০টা",
       href: null,
     },
     {
@@ -66,7 +66,7 @@ export default function Contact() {
               </h2>
 
               <p className="text-sm leading-relaxed text-neutral-400 sm:text-base">
-                ব্যানার, পোস্টার, ভিজিটিং কার্ড অথবা
+                আকর্ষণীয় লাইটিং সাইনবোর্ড, ব্যানার, পোস্টার, ভিজিটিং কার্ড অথবা
                 ব্র্যান্ডিং ম্যাটেরিয়াল প্রয়োজন? আজই
                 যোগাযোগ করুন এবং আপনার ব্যবসার জন্য
                 প্রিমিয়াম মানের ডিজাইন ও প্রিন্টিং সেবা
@@ -180,7 +180,7 @@ export default function Contact() {
                       value="banner"
                       className="bg-neutral-950"
                     >
-                      ব্যানার ডিজাইন ও প্রিন্টিং
+                       আকর্ষণীয় লাইটিং সাইনবোর্ড ও প্রিন্টিং
                     </option>
 
                     <option
