@@ -15,7 +15,7 @@ export default function EnterpriseSolutions() {
     {
       id: "01",
       icon: <FaLightbulb />,
-      title: "ডিজিটাল লাইটিং ব্যানার সল্যুশন",
+      title: "ডিজিটাল লাইটিং সাইনবোর্ড সল্যুশন",
       desc: "শোরুম, কর্পোরেট অফিস, ইভেন্ট ও ব্যবসা প্রতিষ্ঠানের জন্য আধুনিক আল্ট্রা-ব্রাইট ডিজিটাল ও প্রিমিয়াম লাইটিং ব্যানার ডিজাইন, ম্যানুফ্যাকচারিং এবং ফুল সেটআপ ইন্সটলেশন সেবা।",
       isFeatured: true,
     },
@@ -70,8 +70,7 @@ export default function EnterpriseSolutions() {
               Enterprise Solutions
             </span>
             <h2 className="text-4xl sm:text-5xl font-black tracking-tight text-neutral-950 leading-snug">
-              কর্পোরেট ব্র্যান্ডিং ও বৃহৎ <br />
-              ব্যবসার জন্য প্রিমিয়াম সল্যুশন
+              কর্পোরেট ও লিমিটেড কোম্পানির ব্র্যান্ডিং 
             </h2>
           </div>
           <p className="text-neutral-500 text-base sm:text-lg max-w-md font-medium leading-relaxed">
