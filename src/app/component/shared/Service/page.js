@@ -8,6 +8,7 @@ import {
   FaBullhorn,
   FaPalette,
   FaImages,
+  FaHeart,
 } from "react-icons/fa";
 import { HiArrowRight } from "react-icons/hi2";
 
@@ -49,6 +50,12 @@ export default function Services() {
       desc: "আপনার ব্যবসার প্রচার ও ব্র্যান্ডিংকে আইডিয়া থেকে বাস্তবায়ন—সবকিছু একসাথে।মাহমুদ আর্ট এন্ড প্রেস – আপনার বিশ্বস্ত ক্রিয়েটিভ ডিজাইন পার্টনার।",
       isFeatured: false,
     },
+    {
+  icon: <FaHeart />,
+  title: "বিয়ের কার্ড ডিজাইন ও প্রিন্টিং",
+  desc: "বিয়ে, গায়ে হলুদ, আকদ, সংবর্ধনা ও অন্যান্য পারিবারিক অনুষ্ঠানের জন্য আকর্ষণীয় ও আধুনিক বিয়ের কার্ড ডিজাইন এবং প্রিমিয়াম মানের প্রিন্টিং সেবা। বিভিন্ন কাগজ, ফিনিশিং ও কাস্টম ডিজাইনের সুবিধা রয়েছে।",
+  isFeatured: false,
+},
   ];
 
 

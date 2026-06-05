@@ -36,13 +36,13 @@ export default function Portfolio() {
       img: "branding.png",
     },
     {
-      title: "প্রিমিয়াম প্যাকেজিং প্রিন্ট",
+      title: "প্রিমিয়াম স্টিকার প্রিন্ট",
       category: "প্রিন্ট",
-      img: "packaging.png",
+      img: "/stickers.png",
     },
     {
       title: "শপ লাইটিং সাইনবোর্ড ডিজাইন",
-      category: "লাইটিং সাইনবোর্ড",
+      category: "ব্যানার",
       img: "/signboard.jpeg",
     },
   ];

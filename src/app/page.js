@@ -6,6 +6,7 @@ import Navbar from "./component/shared/Navbar/page";
 import Portfolio from "./component/shared/Portfolio/page";
 import Reviews from "./component/shared/Reviews/page";
 import Services from "./component/shared/Service/page";
+import Team from "./component/shared/Team/page";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Services />
       <Portfolio />
       <Reviews />
+      <Team/>
       <Contact />
       <Footer />
     </>
