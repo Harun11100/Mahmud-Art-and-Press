@@ -41,23 +41,23 @@ export default function Navbar() {
       <nav className="mx-auto flex h-16 sm:h-20 max-w-7xl items-center justify-between px-4 sm:px-6 md:px-12">
 
         {/* Logo */}
-        <Link
-          href="/"
-          className="flex items-center gap-2 sm:gap-3 font-bold tracking-tight text-black transition-opacity hover:opacity-80"
-        >
-          <Image
-            src="/logo.png"
-            alt="মাহমুদ আর্ট এন্ড প্রেস লোগো"
-            width={34}
-            height={34}
-            className="object-contain sm:w-[40px] sm:h-[40px]"
-          />
+       <Link
+  href="/"
+  className="flex items-center gap-2 sm:gap-3 font-bold tracking-tight text-black transition-opacity hover:opacity-80"
+>
+  <Image
+    src="/logo.png"
+    alt="মাহমুদ আর্ট এন্ড প্রেস লোগো"
+    width={52}
+    height={52}
+    className="object-contain w-[52px] h-[52px] sm:w-[64px] sm:h-[64px]"
+  />
 
-          <span className="text-sm sm:text-xl md:text-2xl leading-tight whitespace-nowrap">
-            মাহমুদ আর্ট এন্ড প্রেস
-            <span className="font-light text-neutral-400">.</span>
-          </span>
-        </Link>
+  <span className="text-sm sm:text-xl md:text-2xl leading-tight whitespace-nowrap">
+    মাহমুদ আর্ট এন্ড প্রেস
+    <span className="font-light text-neutral-400">.</span>
+  </span>
+</Link>
 
         {/* Desktop Menu */}
         <ul className="hidden items-center gap-6 lg:gap-10 md:flex">
