@@ -76,7 +76,7 @@ export default function Services() {
               আমরা যা সবচেয়ে ভালো করি
             </span>
 
-            <h2 className="text-4xl font-black tracking-tight text-neutral-900 sm:text-5xl">
+            <h2 className="text-3xl font-black tracking-tight text-neutral-900 sm:text-5xl">
               প্রিমিয়াম ডিজাইন ও ডিজিটাল প্রিন্ট সেবা
             </h2>
           </div>

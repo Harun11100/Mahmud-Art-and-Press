@@ -6,8 +6,8 @@ import { FaArrowRight } from "react-icons/fa6";
 
 export default function Hero() {
   const stats = [
-    { value: "500+", label: "সম্পন্ন ডিজাইন" },
-    { value: "100+", label: "সন্তুষ্ট গ্রাহক" },
+    { value: "5000+", label: "সম্পন্ন ডিজাইন" },
+    { value: "4900+", label: "সন্তুষ্ট গ্রাহক" },
     { value: "24/7", label: "দ্রুত সাপোর্ট" },
   ];
 
