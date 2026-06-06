@@ -26,6 +26,7 @@ export default function Navbar() {
     { label: "সেবাসমূহ", href: "#services" },
     { label: "পোর্টফোলিও", href: "#portfolio" },
     { label: "রিভিউ", href: "#reviews" },
+    { label: "ডিজিটাল সেবা", href: "#digital-services" },
     { label: "যোগাযোগ", href: "#contact" },
   ];
 
