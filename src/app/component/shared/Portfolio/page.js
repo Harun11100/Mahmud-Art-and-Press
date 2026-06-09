@@ -33,7 +33,7 @@ export default function Portfolio() {
     {
       title: "কর্পোরেট ব্র্যান্ড পরিচিতি",
       category: "ব্র্যান্ডিং",
-      img: "/corporate.jpeg",
+      img: "/Corporate.jpeg",
     },
     {
       title: "প্রিমিয়াম স্টিকার প্রিন্ট",
