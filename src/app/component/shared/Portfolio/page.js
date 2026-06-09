@@ -43,7 +43,7 @@ export default function Portfolio() {
     {
       title: "শপ লাইটিং সাইনবোর্ড ডিজাইন",
       category: "ব্যানার",
-      img: "/signboard.jpeg",
+      img: "/image2.png",
     },
   ];
 

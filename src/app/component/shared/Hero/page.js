@@ -99,8 +99,8 @@ export default function Hero() {
               <div className="space-y-4 sm:space-y-6">
                 <div className="group relative aspect-[3/4] overflow-hidden rounded-3xl bg-neutral-900 ring-1 ring-white/10">
                   <img
-                    src="/image1.jpeg"
-                    alt="পোস্টার ডিজাইন"
+                    src="/lighting-signboard.png"
+                    alt="লাইটিং সাইনবোর্ড ডিজাইন"
                     className="h-full w-full object-cover brightness-95 transition-all duration-700 group-hover:scale-105 group-hover:brightness-100"
                   />
                 </div>
