@@ -23,17 +23,17 @@ export default function Portfolio() {
     {
       title: "প্রিমিয়াম ভিজিটিং কার্ড ডিজাইন",
       category: "ব্র্যান্ডিং",
-      img: "/visiting-card.png",
+      img: "/visitingCard.png",
     },
     {
       title: "আধুনিক পোস্টার প্রিন্ট ডিজাইন",
       category: "প্রিন্ট",
-      img: "/poster-print.png",
+      img: "/poster-print.jpeg",
     },
     {
       title: "কর্পোরেট ব্র্যান্ড পরিচিতি",
       category: "ব্র্যান্ডিং",
-      img: "branding.png",
+      img: "/corporate.jpeg",
     },
     {
       title: "প্রিমিয়াম স্টিকার প্রিন্ট",
@@ -43,7 +43,7 @@ export default function Portfolio() {
     {
       title: "শপ লাইটিং সাইনবোর্ড ডিজাইন",
       category: "ব্যানার",
-      img: "/signboard.jpeg",
+      img: "/lighting-banner.png",
     },
   ];
 

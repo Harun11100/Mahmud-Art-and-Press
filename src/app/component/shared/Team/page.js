@@ -8,7 +8,7 @@ export default function Team() {
     {
       name: "সুমন আলী মাহমুদ",
       role: "প্রতিষ্ঠাতা ও ব্যবস্থাপনা পরিচালক",
-      image: "/owner.png",
+      image: "/owner.jpeg",
       phone: "+8801939082023",
       email: "mahmudart210@gmail.com", // Fixed the broken markdown format link here
       featured: true,

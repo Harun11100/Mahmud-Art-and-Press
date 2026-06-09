@@ -45,10 +45,10 @@ export default function Hero() {
 
             {/* Description */}
            <p className="max-w-xl text-base leading-relaxed text-neutral-400 sm:text-lg">
-  আমরা ব্যবসা প্রতিষ্ঠান ও বিভিন্ন অনুষ্ঠানের জন্য প্রিমিয়াম মানের 
-  আকর্ষণীয় লাইটিং সাইনবোর্ড, ব্যানার, পোস্টার, ভিজিটিং কার্ড, ফ্লেক্স, 
-  ব্র্যান্ডিং ম্যাটেরিয়াল এবং কাস্টম ডিজাইন ও প্রিন্টিং সেবা প্রদান করি।
-</p>
+            আমরা ব্যবসা প্রতিষ্ঠান ও বিভিন্ন অনুষ্ঠানের জন্য প্রিমিয়াম মানের 
+            আকর্ষণীয় লাইটিং সাইনবোর্ড, ব্যানার, পোস্টার, ভিজিটিং কার্ড, ফ্লেক্স, 
+            ব্র্যান্ডিং ম্যাটেরিয়াল এবং কাস্টম ডিজাইন ও প্রিন্টিং সেবা প্রদান করি।
+          </p>
 
             {/* Buttons */}
             <div className="flex flex-wrap items-center gap-4 pt-2 ">
@@ -107,7 +107,7 @@ export default function Hero() {
 
                 <div className="group relative aspect-square overflow-hidden rounded-3xl bg-neutral-900 ring-1 ring-white/10">
                   <img
-                    src="/image2.jpeg"
+                    src="/poster-print.jpeg"
                     alt="ব্যানার ডিজাইন"
                     className="h-full w-full object-cover brightness-95 transition-all duration-700 group-hover:scale-105 group-hover:brightness-100"
                   />
