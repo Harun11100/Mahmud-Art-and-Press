@@ -32,6 +32,12 @@ export default function Footer() {
       href: "https://www.instagram.com/mahm.udart1996?igsh=ejBjNnZib3c1OGtz",
       label: "ইনস্টাগ্রাম",
     },
+      {
+      icon: <FaLinkedinIn />,
+      href: "https://www.linkedin.com/in/mahmud-hasan-210708415",
+      label: "লিংকডিন",
+    },
+
   ];
 
   return (
